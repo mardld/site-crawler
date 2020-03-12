@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class SiteCrawlerApplication
 
 fun main(args: Array<String>) {
-	runApplication<SiteCrawlerApplication>(*args)
+    runApplication<SiteCrawlerApplication>(*args)
 }

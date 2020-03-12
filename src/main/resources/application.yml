@@ -1,0 +1,5 @@
+---
+chrome.options:
+  - --headless
+  - --no-sandbox
+  - --window-size=1920,1080
